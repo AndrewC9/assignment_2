@@ -5,8 +5,8 @@
  * min, max, mean, median, and sorting of the array
  * Input: The user will be prompted by the program asking them what size do the want the array, then they will fill the
  * array's indexes with values up to the size of the array.
- * Output:  
- * Created on: 
+ * Output:  The array unsorted, then the sorted array, the min, the max, the mean and the median
+ * Created on: 9/11/17 6:53am
  */
 
 #include <cstdlib>
